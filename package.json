@@ -33,7 +33,7 @@
     "html-cli": "^1.0.0",
     "html-webpack-plugin": "^3.2.0",
     "image-webpack-loader": "^6.0.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "raw-loader": "^4.0.0",
     "sass": "^1.24.3",
     "sass-loader": "^8.0.0",
